@@ -1,0 +1,2 @@
+export const CHANGE_PHOTO_SIZE = 'CHANGE_PHOTO_SIZE';
+export const CHANGE_THEME = 'CHANGE_THEME';
